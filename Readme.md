@@ -44,7 +44,7 @@ Password:
 
 ## ライセンス
 
-MIT
+[MIT](https://github.com/sky-joker/vmware-get-perfcounter-info/blob/master/LICENSE.txt)
 
 ## 作者
 
